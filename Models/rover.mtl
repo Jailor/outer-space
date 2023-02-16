@@ -1,0 +1,72 @@
+# Blender 3.3.1 MTL File: 'SpacialExplorerRoverT30.blend'
+# www.blender.org
+
+newmtl SpacialRoverExplorerArmArm
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerArmArm.png
+
+newmtl SpacialRoverExplorerArmF
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerArmF.png
+
+newmtl SpacialRoverExplorerArmW
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerArmW.png
+
+newmtl SpacialRoverExplorerCameraZ
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerCameraZ.png
+
+newmtl SpacialRoverExplorerChasis
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerChassis.png
+
+newmtl SpacialRoverExplorerSignals
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerSignal.png
+
+newmtl SpacialRoverExplorerwheels
+Ns 90.000000
+Ka 1.000000 1.000000 1.000000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd SpacialRoverExplorerwheels.png
