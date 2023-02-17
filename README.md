@@ -21,7 +21,26 @@ As far as functionalities are concerned, I implemented the following:
 - Inheritance: C++ inheritance, polymorphism and constructor delegation is used in order to model the lighting and the shadow classes.
 - Omnidirectional shadow maps: Cubemap textures are used in order to have shadows from point lights and spot lights
 - Rock cloud: the rock clouds are dynamically generated in  OpenGL using a randomized algorithm
-### Main video
-[Main video](/ss/video2.mkv)
+<!- ### Main video [Main video](/ss/video2.mkv) -->
 
+### Main scene
+<img src="/ss/main_scene_low_light.png" width="900" >
+
+### Main scene 2
+<img src="/ss/PelleAndrei_gr30434_scr.png" width="900" >
+
+### Night Scene 1
+<img src="/ss/night_scene_bunker.png" width="900" >
+
+### Night Scene 2
+<img src="/ss/night_scene.png" width="900" >
+
+### Moon
+<img src="/ss/moon.png" width="900" >
+
+### Star Trek
+<img src="/ss/star_trek.png" width="900" >
+
+### Inside the dome
+<img src="/ss/dome_inside.png" width="900" >
 
