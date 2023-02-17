@@ -638,7 +638,7 @@ void renderPass(glm::mat4 viewMatrix, glm::mat4 projectionMatrix)
     // was originally beign set in our window function
    // would be cleaner to have window have a function that
    // sets the viewport
-    glViewport(0, 0, 1366, 768);
+    glViewport(0, 0, 1920, 1080);
 
     // Clear window, rgb values between 0 and 1, aplha means transparency (first on 1.0f would make screen red)
     glClearColor(0.0f, 0.0f, 0.0f, 1.0f);
@@ -758,7 +758,7 @@ glm::vec3 BezierArray(float t, std::vector<glm::vec3> points) {
 
 int main()
 {
-    mainWindow = Window(1366, 768); //was 800, 600 | 1366, 768
+    mainWindow = Window(1920, 1080); //was 800, 600 | 1366, 768
     mainWindow.initialise();
     createObjects(meshList);
     createShaders(shaderList, directionalShadowShader, omniShadowShader);
