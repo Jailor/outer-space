@@ -17,4 +17,11 @@ As far as functionalities are concerned, I implemented the following:
 
 ## Implementation and Pictures :computer:
 
+### Notable implementation details
+- Inheritance: C++ inheritance, polymorphism and constructor delegation is used in order to model the lighting and the shadow classes.
+- Omnidirectional shadow maps: Cubemap textures are used in order to have shadows from point lights and spot lights
+- Rock cloud: the rock clouds are dynamically generated in  OpenGL using a randomized algorithm
+### Main video
+<img src="/piese/screenshots/Board1.PNG" width="400" title="Main chessboard">
+
 
