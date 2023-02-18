@@ -1,7 +1,7 @@
 # Outer Space OpenGL
 The subject of this project is the photorealistic presentation of 3D objects using OpenGL library. The project showcases OpenGL features, as well as features of the C++ language.
 ## About :thought_balloon:
-The scene depicts a space scene with various space related objects on  a mars-like planet. The main base is formed of multiple astronauts, buildings, a spinning metal pyramid, a TIE fighter, and a military helicopter. Behind us there are 2 buildings: a prosperity dome and a big power plant. There is also a spinning moon very far away with some astronauts and an asteroid ring. Next to it there is a star trek base and another planet with asteroids. Pictures for all of these are shown in the [respective section](#implementation-and-pictures-computer)
+The scene depicts a space scene with various space related objects on  a mars-like planet. The main base is formed of multiple astronauts, buildings, a spinning metal pyramid, a TIE fighter, and a military helicopter. Behind us there are 2 buildings: a prosperity dome and a big power plant. There is also a spinning moon very far away with some astronauts and an asteroid ring. Next to it there is a star trek base and another planet with asteroids. Pictures for all of these are shown in the [respective section](#implementation-and-pictures-computer).
 
 
 ## Features :white_check_mark:
